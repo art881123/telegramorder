@@ -70,7 +70,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-154c5f9fd5bf.js"></script>
   
 
-  <title>telegram-sender/index.html at main · llreebor/telegram-sender</title>
+  <title>telegram-sender/ajax.php at main · llreebor/telegram-sender</title>
 
 
 
@@ -80,7 +80,7 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="C120:66E3:6F8AAF:73573C:640A4845" data-turbo-transient="true" /><meta name="html-safe-nonce" content="5248a7eb8ad1681b175ddf031edf3e2030f9f729fac61f503f2bdfe7d89f75eb" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9sbHJlZWJvci90ZWxlZ3JhbS1zZW5kZXIiLCJyZXF1ZXN0X2lkIjoiQzEyMDo2NkUzOjZGOEFBRjo3MzU3M0M6NjQwQTQ4NDUiLCJ2aXNpdG9yX2lkIjoiMjU1NjMzMjI5MzkzNDEyNjQ2OSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="e6fe15a4faccd0ef34928d46b6b28a386529c044c92c8ca9ecede42c7da39f5b" data-turbo-transient="true" />
+  <meta name="request-id" content="C120:66E3:6F546F:731F60:640A4816" data-turbo-transient="true" /><meta name="html-safe-nonce" content="5248a7eb8ad1681b175ddf031edf3e2030f9f729fac61f503f2bdfe7d89f75eb" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9sbHJlZWJvci90ZWxlZ3JhbS1zZW5kZXIiLCJyZXF1ZXN0X2lkIjoiQzEyMDo2NkUzOjZGNTQ2Rjo3MzFGNjA6NjQwQTQ4MTYiLCJ2aXNpdG9yX2lkIjoiMjU1NjMzMjI5MzkzNDEyNjQ2OSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="53f60e137215d049acd5ce81fe727363742b8d304f22326a53408e344cec972e" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:355857124" data-turbo-transient>
@@ -119,11 +119,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/c9e45be5e8f04fe545f0a7853ea8a1b55ce4912d8a01205dc7357c7c3b81b719/llreebor/telegram-sender" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="telegram-sender/index.html at main · llreebor/telegram-sender" /><meta name="twitter:description" content="Contribute to llreebor/telegram-sender development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/c9e45be5e8f04fe545f0a7853ea8a1b55ce4912d8a01205dc7357c7c3b81b719/llreebor/telegram-sender" /><meta property="og:image:alt" content="Contribute to llreebor/telegram-sender development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="telegram-sender/index.html at main · llreebor/telegram-sender" /><meta property="og:url" content="https://github.com/llreebor/telegram-sender" /><meta property="og:description" content="Contribute to llreebor/telegram-sender development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/c9e45be5e8f04fe545f0a7853ea8a1b55ce4912d8a01205dc7357c7c3b81b719/llreebor/telegram-sender" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="telegram-sender/ajax.php at main · llreebor/telegram-sender" /><meta name="twitter:description" content="Contribute to llreebor/telegram-sender development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/c9e45be5e8f04fe545f0a7853ea8a1b55ce4912d8a01205dc7357c7c3b81b719/llreebor/telegram-sender" /><meta property="og:image:alt" content="Contribute to llreebor/telegram-sender development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="telegram-sender/ajax.php at main · llreebor/telegram-sender" /><meta property="og:url" content="https://github.com/llreebor/telegram-sender" /><meta property="og:description" content="Contribute to llreebor/telegram-sender development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/124736231/ws?session=eyJ2IjoiVjMiLCJ1IjoxMjQ3MzYyMzEsInMiOjEwNDgzMzAwODQsImMiOjI2ODkxNzk0OTAsInQiOjE2NzgzOTU0NzZ9--1285f6f68e9d837365770e870017b08b77f64686384b96cab79ad5feb52f430d" data-refresh-url="/_alive" data-session-id="983edadad4e847b227cdc2dc34bef63c5267b0e171f0d5bf39ad2f4ceb4ff832">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/124736231/ws?session=eyJ2IjoiVjMiLCJ1IjoxMjQ3MzYyMzEsInMiOjEwNDgzMzAwODQsImMiOjQxNzY0Nzc2MDksInQiOjE2NzgzOTU0NjF9--94bd4e268e66ce839e0f91939bc90d40e0e7d1c4e150c9c6324f2c960c472611" data-refresh-url="/_alive" data-session-id="983edadad4e847b227cdc2dc34bef63c5267b0e171f0d5bf39ad2f4ceb4ff832">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-d7c2fe14563a.js">
 
 
@@ -153,7 +153,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/llreebor/telegram-sender/blob/main/index.html" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/llreebor/telegram-sender/blob/main/ajax.php" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -246,7 +246,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="tCPA984NX94FjX9KLxkr3QeYwXFEKwjICsolxJZodoAaT9iPar5v0BcVwOw8Z-tfxtryhuVjZN06xivrQJ83Dw" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="VdCgMaaIlQ3sCwNTMNDb-mjC6Apq4Cmanu5SdQUgp2D7vLhJAjulA_6TvPUjrht4qYDb_cuoRY-u4lxa09fm7w" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -445,7 +445,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;art881123&quot;,&quot;originating_url&quot;:&quot;https://github.com/llreebor/telegram-sender/blob/main/index.html&quot;,&quot;user_id&quot;:124736231}}" data-hydro-click-hmac="53988af306d4beea518b35cba6827322f8c2c429eda5b04bfc6bfda8f9beb2e8" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;art881123&quot;,&quot;originating_url&quot;:&quot;https://github.com/llreebor/telegram-sender/blob/main/ajax.php&quot;,&quot;user_id&quot;:124736231}}" data-hydro-click-hmac="41741154bb7bbafda0420ef5c1ea6d02633ff84a7266ea64d38dfc9b9ee9c9b8" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -453,7 +453,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/124736231?s=40&amp;v=4" width="20" height="20" alt="@art881123" />
       art881123
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CYPZz9h6WntqleFPCkHoDqkRydBFmCni0AfiamGDfzFck2QiXMOSGwW1E55lSSbWzDW_hTJkHSSWFVSa74hkuw" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DxW7xL-tlKTYgKgyxSfwo9oD0hg4S1B7Au4rQ4nGz6daBQYpOxRcxLegWuOqLz57vyekTU-3ZL1E_J2zB83ULQ" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -488,7 +488,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTI0NzM2MjMxIiwidCI6MTY3ODM5NTQ3Nn0=--1989ce868d1d46f2f581505f057d8769d6d231697e451334f0d0afb426d03034" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTI0NzM2MjMxIiwidCI6MTY3ODM5NTQ2MX0=--6bb4b41e7bc77422ed1d064950f2cb1d8d8616935cf3e5e35082c1e78d75ae4d" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -631,7 +631,7 @@
 
 
     
-    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTI0NzM2MjMxIiwidCI6MTY3ODM5NTQ3Nn0=--1989ce868d1d46f2f581505f057d8769d6d231697e451334f0d0afb426d03034" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTI0NzM2MjMxIiwidCI6MTY3ODM5NTQ2MX0=--6bb4b41e7bc77422ed1d064950f2cb1d8d8616935cf3e5e35082c1e78d75ae4d" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -648,7 +648,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/llreebor/telegram-sender/blob/main/index.html
+      return-to=/llreebor/telegram-sender/blob/main/ajax.php
       user-id="124736231"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -805,7 +805,7 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-4f1224c8-730a-4849-8c5a-7f091638c753" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-0da9213a-107d-45d0-ac18-052e04cb86cb" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
@@ -1617,7 +1617,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:355857124,&quot;originating_url&quot;:&quot;https://github.com/llreebor/telegram-sender/blob/main/index.html&quot;,&quot;user_id&quot;:124736231}}" data-hydro-click-hmac="8b91e896ae2fdf8afd0a1b62d73b4d9ae6b3739b27a6288ca5074f2ce7a29aef" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:355857124,&quot;originating_url&quot;:&quot;https://github.com/llreebor/telegram-sender/blob/main/ajax.php&quot;,&quot;user_id&quot;:124736231}}" data-hydro-click-hmac="fda035997e45be14b265e19ca66292e995aa4c32f10826c8c25df47182c993be" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1669,7 +1669,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3CnhhxosJSynBcVRH7h0IBgOUmNkRMJ64ldcEhSrYm7YiXNYW-JQtrCaqap3P-MizT4GHbSeTbIkL9VCpU2oqA" autocomplete="off" />
+              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Yf1QKkLDizNvzseS4tEB4OMzcbGZ424oNEjvt02Ebs1lXcL1Aw3-qXhRq2mKVpbiNgMlz0k54eDyMGbn_GKkCw" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="355857124">
 
@@ -1797,7 +1797,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="P0QARDL5-kZtK6Kiv813_AW5DA2ZqtVXuhjMydPGZ6c75JKbczeP3Hq0zlnXSuD-0IlYc0lwWp98YEWZYiCtYQ" autocomplete="off" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ZaKuIufSAgMtUW_iI-BIubSmOihXtyRNWYYtWP-hNehhAjz9phx3mTrOAxlLZ9-7YZZuVodtq4Wf_qQITkf_Lg" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="355857124">
 
@@ -1949,11 +1949,11 @@
   <li>
         <div data-view-component="true" class="d-flex">
         <div data-view-component="true" class="position-relative d-inline-block">
-    <a icon="repo-forked" id="fork-button" href="/llreebor/telegram-sender/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:355857124,&quot;originating_url&quot;:&quot;https://github.com/llreebor/telegram-sender/blob/main/index.html&quot;,&quot;user_id&quot;:124736231}}" data-hydro-click-hmac="c7806a914f8b4b3777790839728c9708af4988f19990dd5284ba68ba8b91fff6" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+    <a icon="repo-forked" id="fork-button" href="/llreebor/telegram-sender/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:355857124,&quot;originating_url&quot;:&quot;https://github.com/llreebor/telegram-sender/blob/main/ajax.php&quot;,&quot;user_id&quot;:124736231}}" data-hydro-click-hmac="ff62a7e36cef41d0ef82480195f1c0fd02cd529b1b1ef5ec1d194fe36a210ebd" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="15" data-view-component="true" class="Counter">15</span>
-</a>    <tool-tip id="tooltip-12d83df8-d934-4b99-ada1-e701dbf98579" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of llreebor/telegram-sender</tool-tip>
+</a>    <tool-tip id="tooltip-8eddd408-ef48-425a-820f-4f9b03994ebf" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of llreebor/telegram-sender</tool-tip>
 </div>
       <details group_item="true" id="my-forks-menu-355857124" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
               <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
@@ -1968,13 +1968,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-18ea88">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-cfe057">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-18ea88"
+        id="filter-menu-cfe057"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2016,10 +2016,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/llreebor/telegram-sender/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iLXbJmUdyFotdX9bMOdG0wd5kxnYZwqFkVlWf7SuUj5rdsYn3dms7wfBWXifPHa0fRAhjAypBwNJUIOq3Rmvkw" autocomplete="off" />
-          <input type="hidden" value="zibFEKC5I8z8qrh_7t4d4A7DrLwyiVNS-YVyyvQm9k0t5dgRGH1HedYenlxBBS2HdKoeKeZHXtQhjKcfnZEL4A" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/llreebor/telegram-sender/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ropnRvnukJO19rGhm5Qh0SC4b_PcNjR7G5IWHum_esRNSXpHQSr0Jp9Cl4I0TxG2WtHdZgj4Of3Dm8PLgAiHaQ" autocomplete="off" />
+          <input type="hidden" value="5b8MLHXB74eSpfykAPH3Z0OPuXis1MTDRJP5ZaXWBmYGfBEtzQWLMrgR2oevKscAOeYL7XgayUWcmiywzGH7yw" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:355857124,&quot;originating_url&quot;:&quot;https://github.com/llreebor/telegram-sender/blob/main/index.html&quot;,&quot;user_id&quot;:124736231}}" data-hydro-click-hmac="9b71b0b5bd39fb703e1988694e0f8a3ebd8b11799cd76110137b1f0101bfb0f1" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (11)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:355857124,&quot;originating_url&quot;:&quot;https://github.com/llreebor/telegram-sender/blob/main/ajax.php&quot;,&quot;user_id&quot;:124736231}}" data-hydro-click-hmac="be08eee8749b7a30e9dd3269335329a170f31222a6d02c83ccf33f2dee569188" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (11)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2037,13 +2037,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-264ea9">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-9c7fb7">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-264ea9"
+        id="filter-menu-9c7fb7"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2064,9 +2064,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/llreebor/telegram-sender/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="bbC9IZr_GcDNav6Fxpd6c6IZWnbIPjxHfNXNoi9DBb9eYW4Yb2_6jHBWXmB0Jf9pe0ozFZtqxwaKrWC2iVpDGA" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/llreebor/telegram-sender/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3hspyrRhQXfAAWZm03wpTIUHY7TkroQ9V4sS5cwDrWDtyvrzQfGiO309xoNhzqxWXFQK17f6f3yh87_xahrrxw" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:355857124,&quot;originating_url&quot;:&quot;https://github.com/llreebor/telegram-sender/blob/main/index.html&quot;,&quot;user_id&quot;:124736231}}" data-hydro-click-hmac="c634d9d93b2fa8fd5bf0b5e0f250cd4fb90d3ebacac4abd8c00d4a1c3e994ca4" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (11)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:355857124,&quot;originating_url&quot;:&quot;https://github.com/llreebor/telegram-sender/blob/main/ajax.php&quot;,&quot;user_id&quot;:124736231}}" data-hydro-click-hmac="b0ba49f366e5873024cb522e95d250b6e4e0f2cd36fb17d6bfa64121f616c324" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (11)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2084,13 +2084,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-264ea9">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-9c7fb7">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-264ea9"
+        id="filter-menu-9c7fb7"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2277,7 +2277,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/llreebor/telegram-sender/blob/acf335ddb51ab1fc7ea3576d0d243af773288c42/index.html">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/llreebor/telegram-sender/blob/acf335ddb51ab1fc7ea3576d0d243af773288c42/ajax.php">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2285,7 +2285,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:355857124,&quot;originating_url&quot;:&quot;https://github.com/llreebor/telegram-sender/blob/main/index.html&quot;,&quot;user_id&quot;:124736231}}" data-hydro-click-hmac="5c6e19727e318941896fdfc3ccc52e32c20009f2a38919154e86fe8205c274fc">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:355857124,&quot;originating_url&quot;:&quot;https://github.com/llreebor/telegram-sender/blob/main/ajax.php&quot;,&quot;user_id&quot;:124736231}}" data-hydro-click-hmac="fe53a191fb1335a72b6aa3a51ceba03b53390671a2376399141b7d1de9e8dbdc">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2366,7 +2366,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/llreebor/telegram-sender/blob/{{ urlEncodedRefName }}/index.html" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/llreebor/telegram-sender/blob/{{ urlEncodedRefName }}/ajax.php" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2408,7 +2408,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/llreebor/telegram-sender/blob/{{ urlEncodedRefName }}/index.html" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/llreebor/telegram-sender/blob/{{ urlEncodedRefName }}/ajax.php" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2469,7 +2469,48 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/llreebor/telegram-sender"><span>telegram-sender</span></a></span></span><span class="separator">/</span><strong class="final-path">index.html</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/llreebor/telegram-sender"><span>telegram-sender</span></a></span></span><span class="separator">/</span><strong class="final-path">ajax.php</strong>
+      <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:355857124,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;PHP&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/llreebor/telegram-sender/blob/main/ajax.php&quot;,&quot;user_id&quot;:124736231}}" data-hydro-click-hmac="9f794d83c6c54e069fceaf1c0f1147957ad1c96d8cd285d4cabf6ca5a8847060" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+        </button>
+      </header>
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="jumpto-symbols-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter definitions"
+            aria-label="Filter definitions">
+        </div>
+      <div class="SelectMenu-list">
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation index up-to-date
+          <svg class="octicon octicon-dot-fill text-green" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
   </h2>
     <a href="/llreebor/telegram-sender/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2480,7 +2521,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:355857124,&quot;originating_url&quot;:&quot;https://github.com/llreebor/telegram-sender/blob/main/index.html&quot;,&quot;user_id&quot;:124736231}}" data-hydro-click-hmac="6042e2293db495d1b317b45b37d2b1367155afcb2b155ec05fab70dfa901d673" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/llreebor/telegram-sender/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:355857124,&quot;originating_url&quot;:&quot;https://github.com/llreebor/telegram-sender/blob/main/ajax.php&quot;,&quot;user_id&quot;:124736231}}" data-hydro-click-hmac="4a3f306ecc653bde8820c5c5d9c90948451c54739f4c0ec3835e7f6a9c0cb422" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/llreebor/telegram-sender/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2490,15 +2531,21 @@
               <span class="text-small color-fg-muted" aria-hidden="true">L</span>
             </span>
 </button>        </li>
+        <li data-toggle-for="blob-more-options-details">
+            <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">    <span class="d-flex flex-items-baseline">
+              <span class="flex-auto">Go to definition</span>
+              <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+            </span>
+</button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="index.html" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="ajax.php" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/llreebor/telegram-sender/blob/acf335ddb51ab1fc7ea3576d0d243af773288c42/index.html" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/llreebor/telegram-sender/blob/acf335ddb51ab1fc7ea3576d0d243af773288c42/ajax.php" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2529,7 +2576,7 @@
     <include-fragment src="/llreebor/telegram-sender/spoofed_commit_check/acf335ddb51ab1fc7ea3576d0d243af773288c42" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/llreebor/telegram-sender/contributors/main/index.html" class="commit-loader">
+  <include-fragment src="/llreebor/telegram-sender/contributors/main/ajax.php" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2563,23 +2610,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      30 lines (29 sloc)
+      51 lines (34 sloc)
       <span class="file-info-divider"></span>
-    1.2 KB
+    1.19 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/llreebor/telegram-sender/raw/acf335ddb51ab1fc7ea3576d0d243af773288c42/index.html" href="/llreebor/telegram-sender/raw/main/index.html" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/llreebor/telegram-sender/blame/acf335ddb51ab1fc7ea3576d0d243af773288c42/index.html" href="/llreebor/telegram-sender/blame/main/index.html" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/llreebor/telegram-sender/raw/acf335ddb51ab1fc7ea3576d0d243af773288c42/ajax.php" href="/llreebor/telegram-sender/raw/main/ajax.php" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/llreebor/telegram-sender/blame/acf335ddb51ab1fc7ea3576d0d243af773288c42/ajax.php" href="/llreebor/telegram-sender/blame/main/ajax.php" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/llreebor/telegram-sender/edit/main/index.html" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="P4eFn8orpTEs2NmWquAOWYhbo9xCkYSNmh-W22p5iUjemRYGunbjsLWdA1_GHiAT-E0y_s7f8PotydO-XGQhiQ" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/llreebor/telegram-sender/edit/main/ajax.php" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="yu7OUkoQv8ZOA-g5gk50PHS0Sm2Nte_qNsCPlR8-8Y0BTQP7XbOfKFZIeFvBOqa-UVT5lnUCyrOsHYnm9LdJng" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2589,7 +2636,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/llreebor/telegram-sender/edit/main/index.html" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="RGBdY9uW6ofi4_sPqJ4Qk08C38OxKdES4lmvFAIi7T2lfs76q8usBnumIcbEYD7ZPxRO4T1npWVVj-pxND9F_A" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/llreebor/telegram-sender/edit/main/ajax.php" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JX44rcIEDH5p4aAMZh0ovV63ZqE_OR1EsPW1M8X4rNXu3fUE1acskHGqMG4lafo_e1fVWseOOB0qKLNALnEUxg" autocomplete="off" />
               <button title="Fork this repository and edit the file" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2597,7 +2644,7 @@
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
-            <a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/llreebor/telegram-sender?branch=main&amp;filepath=index.html" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
+            <a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/llreebor/telegram-sender?branch=main&amp;filepath=ajax.php" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
               Open in GitHub Desktop
 </a>        </div>
       </div>
@@ -2608,10 +2655,10 @@
 
         
 <div >
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/llreebor/telegram-sender/raw/acf335ddb51ab1fc7ea3576d0d243af773288c42/index.html" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/llreebor/telegram-sender/raw/acf335ddb51ab1fc7ea3576d0d243af773288c42/ajax.php" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:355857124,&quot;originating_url&quot;:&quot;https://github.com/llreebor/telegram-sender/blob/main/index.html&quot;,&quot;user_id&quot;:124736231}}" data-hydro-click-hmac="9a579631fada79f886723945c45dad79887dff583aa7449de95c3513edac2ad2" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:355857124,&quot;originating_url&quot;:&quot;https://github.com/llreebor/telegram-sender/blob/main/ajax.php&quot;,&quot;user_id&quot;:124736231}}" data-hydro-click-hmac="054a0af90fbe871edf874a454edd183ae11001f8bc03236e7f223cd5f0245946" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2636,7 +2683,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/llreebor/telegram-sender/delete/main/index.html" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CtNt8ilCkL6HisQBVZVQx6-QsOOltXzsFu7ewqBP8U9FJHN7V2ig-FUqmHJ2WwLN7PuWKi4Zq228KBVOIcdS8g" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/llreebor/telegram-sender/delete/main/ajax.php" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="uM-KbBnojiITaphp74Cu3M8q_YED4PJAS-0SOKUxJZGJ0wGQol8eIDA5YLnnIQl0QpzhxZlKhZFIqz1gmCylVQ" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2664,20 +2711,20 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/llreebor/telegram-sender?branch=main&amp;filepath=index.html">
+                   href="x-github-client://openRepo/https://github.com/llreebor/telegram-sender?branch=main&amp;filepath=ajax.php">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/llreebor/telegram-sender/raw/main/index.html">
+            <a class="dropdown-item" href="/llreebor/telegram-sender/raw/main/ajax.php">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/llreebor/telegram-sender/raw/main/index.html" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/llreebor/telegram-sender/raw/main/ajax.php" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:355857124,&quot;originating_url&quot;:&quot;https://github.com/llreebor/telegram-sender/blob/main/index.html&quot;,&quot;user_id&quot;:124736231}}" data-hydro-click-hmac="9a579631fada79f886723945c45dad79887dff583aa7449de95c3513edac2ad2">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:355857124,&quot;originating_url&quot;:&quot;https://github.com/llreebor/telegram-sender/blob/main/ajax.php&quot;,&quot;user_id&quot;:124736231}}" data-hydro-click-hmac="054a0af90fbe871edf874a454edd183ae11001f8bc03236e7f223cd5f0245946">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2700,20 +2747,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/llreebor/telegram-sender/blame/main/index.html">
+              <a class="dropdown-item" href="/llreebor/telegram-sender/blame/main/ajax.php">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/llreebor/telegram-sender/edit/main/index.html">Edit file</a>
+                <a class="dropdown-item" href="/llreebor/telegram-sender/edit/main/ajax.php">Edit file</a>
               </li>
                 <li>
                   <a data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:355857124,&quot;actor_id&quot;:124736231,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/" data-view-component="true" class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/llreebor/telegram-sender/delete/main/index.html">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/llreebor/telegram-sender/delete/main/ajax.php">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2722,7 +2769,7 @@
 
 
       
-    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-html  gist-border-0">
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-php  gist-border-0">
 
         
 <div class="js-check-bidi js-blob-code-container blob-code-content">
@@ -2749,106 +2796,113 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="HTML" data-tagsearch-path="index.html">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="PHP" data-tagsearch-path="ajax.php">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c1>&lt;!DOCTYPE html<span class=pl-kos>&gt;</span></span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>&lt;?php</span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>html</span> <span class=pl-c1>lang</span>=&quot;<span class=pl-s>en</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// Токен телеграм бота</span></td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-s1><span class=pl-c1>$</span>tg_bot_token</span> = &quot;<span class=pl-s>1762292099:AAH8kXjoMLYYuXURg93z9Xu7dX_ysNnGlco</span>&quot;;</td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>charset</span>=&quot;<span class=pl-s>UTF-8</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// ID Чата</span></td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>http-equiv</span>=&quot;<span class=pl-s>X-UA-Compatible</span>&quot; <span class=pl-c1>content</span>=&quot;<span class=pl-s>IE=edge</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class=pl-s1><span class=pl-c1>$</span>chat_id</span> = &quot;<span class=pl-s>-229040258</span>&quot;;</td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>name</span>=&quot;<span class=pl-s>viewport</span>&quot; <span class=pl-c1>content</span>=&quot;<span class=pl-s>width=device-width, initial-scale=1.0</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span>Document<span class=pl-kos>&lt;/</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-s1><span class=pl-c1>$</span>text</span> = <span class=pl-s>&#39;&#39;</span>;</td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>link</span> <span class=pl-c1>rel</span>=&quot;<span class=pl-s>stylesheet</span>&quot; <span class=pl-c1>href</span>=&quot;<span class=pl-s>//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>link</span> <span class=pl-c1>href</span>=&#39;<span class=pl-s>https://fonts.googleapis.com/css?family=Roboto:400</span>&#39; <span class=pl-c1>rel</span>=&#39;<span class=pl-s>stylesheet</span>&#39; <span class=pl-c1>type</span>=&#39;<span class=pl-s>text/css</span>&#39;<span class=pl-kos>&gt;</span></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class=pl-k>foreach</span> (<span class=pl-s1><span class=pl-c1>$</span><span class=pl-c1>_POST</span></span> <span class=pl-k>as</span> <span class=pl-s1><span class=pl-c1>$</span>key</span> =&gt; <span class=pl-s1><span class=pl-c1>$</span>val</span>) {</td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>link</span> <span class=pl-c1>rel</span>=&quot;<span class=pl-s>stylesheet</span>&quot; <span class=pl-c1>href</span>=&quot;<span class=pl-s>./main.css</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1><span class=pl-c1>$</span>text</span> .= <span class=pl-s1><span class=pl-c1>$</span>key</span> . &quot;<span class=pl-s>: </span>&quot; . <span class=pl-s1><span class=pl-c1>$</span>val</span> . &quot;\n&quot;;</td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">}</td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>container</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class=pl-s1><span class=pl-c1>$</span>text</span> .= &quot;\n&quot; . <span class=pl-s1><span class=pl-c1>$</span><span class=pl-c1>_SERVER</span></span>[<span class=pl-s>&#39;REMOTE_ADDR&#39;</span>];</td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>log-form</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class=pl-s1><span class=pl-c1>$</span>text</span> .= &quot;\n&quot; . date(<span class=pl-s>&#39;d.m.y H:i:s&#39;</span>);</td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;</span><span class=pl-ent>h2</span><span class=pl-kos>&gt;</span>Отправка формы в телеграм<span class=pl-kos>&lt;/</span><span class=pl-ent>h2</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;</span><span class=pl-ent>form</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>telegram-form</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class=pl-s1><span class=pl-c1>$</span>param</span> = [</td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">          <span class=pl-kos>&lt;</span><span class=pl-ent>input</span> <span class=pl-c1>type</span>=&quot;<span class=pl-s>text</span>&quot; <span class=pl-c1>name</span>=&quot;<span class=pl-s>name</span>&quot; <span class=pl-c1>placeholder</span>=&quot;<span class=pl-s>Имя</span>&quot; <span class=pl-c1>autocomplete</span>=&quot;<span class=pl-s>off</span>&quot; /&gt;</td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">    &quot;<span class=pl-s>chat_id</span>&quot; =&gt; <span class=pl-s1><span class=pl-c1>$</span>chat_id</span>,</td>
         </tr>
         <tr>
           <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">          <span class=pl-kos>&lt;</span><span class=pl-ent>input</span> <span class=pl-c1>type</span>=&quot;<span class=pl-s>text</span>&quot; <span class=pl-c1>name</span>=&quot;<span class=pl-s>phone</span>&quot; <span class=pl-c1>placeholder</span>=&quot;<span class=pl-s>Телефон</span>&quot; <span class=pl-c1>autocomplete</span>=&quot;<span class=pl-s>off</span>&quot; /&gt;</td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">    &quot;<span class=pl-s>text</span>&quot; =&gt; <span class=pl-s1><span class=pl-c1>$</span>text</span></td>
         </tr>
         <tr>
           <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">          <span class=pl-kos>&lt;</span><span class=pl-ent>input</span> <span class=pl-c1>type</span>=&quot;<span class=pl-s>text</span>&quot; <span class=pl-c1>name</span>=&quot;<span class=pl-s>email</span>&quot; <span class=pl-c1>placeholder</span>=&quot;<span class=pl-s>Email</span>&quot; <span class=pl-c1>autocomplete</span>=&quot;<span class=pl-s>off</span>&quot; /&gt;</td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">];</td>
         </tr>
         <tr>
           <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">          <span class=pl-kos>&lt;</span><span class=pl-ent>textarea</span> <span class=pl-c1>name</span>=&quot;<span class=pl-s>text</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>textarea</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">          <span class=pl-kos>&lt;</span><span class=pl-ent>input</span> <span class=pl-c1>type</span>=&quot;<span class=pl-s>file</span>&quot; <span class=pl-c1>name</span>=&quot;<span class=pl-s>file</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class=pl-s1><span class=pl-c1>$</span>url</span> = &quot;<span class=pl-s>https://api.telegram.org/bot</span>&quot; . <span class=pl-s1><span class=pl-c1>$</span>tg_bot_token</span> . &quot;<span class=pl-s>/sendMessage?</span>&quot; . http_build_query(<span class=pl-s1><span class=pl-c1>$</span>param</span>);</td>
         </tr>
         <tr>
           <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">          <span class=pl-kos>&lt;</span><span class=pl-ent>button</span> <span class=pl-c1>type</span>=&quot;<span class=pl-s>submit</span>&quot; <span class=pl-c1>class</span>=&quot;<span class=pl-s>btn</span>&quot;<span class=pl-kos>&gt;</span>отправить<span class=pl-kos>&lt;/</span><span class=pl-ent>button</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;/</span><span class=pl-ent>form</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">var_dump(<span class=pl-s1><span class=pl-c1>$</span>text</span>);</td>
         </tr>
         <tr>
           <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">file_get_contents(<span class=pl-s1><span class=pl-c1>$</span>url</span>);</td>
         </tr>
         <tr>
           <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
@@ -2857,19 +2911,112 @@
         </tr>
         <tr>
           <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>script</span> <span class=pl-c1>src</span>=&quot;<span class=pl-s>https://code.jquery.com/jquery-3.6.0.min.js</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>script</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class=pl-k>foreach</span> ( <span class=pl-s1><span class=pl-c1>$</span><span class=pl-c1>_FILES</span></span> <span class=pl-k>as</span> <span class=pl-s1><span class=pl-c1>$</span>file</span> ) {</td>
         </tr>
         <tr>
           <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>script</span> <span class=pl-c1>src</span>=&quot;<span class=pl-s>./main.js</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>script</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1><span class=pl-c1>$</span>url</span> = &quot;<span class=pl-s>https://api.telegram.org/bot</span>&quot; . <span class=pl-s1><span class=pl-c1>$</span>tg_bot_token</span> . &quot;<span class=pl-s>/sendDocument</span>&quot;;</td>
         </tr>
         <tr>
           <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>html</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line">    move_uploaded_file(<span class=pl-s1><span class=pl-c1>$</span>file</span>[<span class=pl-s>&#39;tmp_name&#39;</span>], <span class=pl-s1><span class=pl-c1>$</span>file</span>[<span class=pl-s>&#39;name&#39;</span>]);</td>
+        </tr>
+        <tr>
+          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1><span class=pl-c1>$</span>document</span> = <span class=pl-k>new</span> \<span class=pl-v>CURLFile</span>(<span class=pl-s1><span class=pl-c1>$</span>file</span>[<span class=pl-s>&#39;name&#39;</span>]);</td>
+        </tr>
+        <tr>
+          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1><span class=pl-c1>$</span>ch</span> = curl_init();</td>
+        </tr>
+        <tr>
+          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line">    curl_setopt(<span class=pl-s1><span class=pl-c1>$</span>ch</span>, <span class=pl-c1>CURLOPT_URL</span>, <span class=pl-s1><span class=pl-c1>$</span>url</span>);</td>
+        </tr>
+        <tr>
+          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line">    curl_setopt(<span class=pl-s1><span class=pl-c1>$</span>ch</span>, <span class=pl-c1>CURLOPT_POST</span>, <span class=pl-c1>1</span>);</td>
+        </tr>
+        <tr>
+          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line">    curl_setopt(<span class=pl-s1><span class=pl-c1>$</span>ch</span>, <span class=pl-c1>CURLOPT_POSTFIELDS</span>, [&quot;<span class=pl-s>chat_id</span>&quot; =&gt; <span class=pl-s1><span class=pl-c1>$</span>chat_id</span>, &quot;<span class=pl-s>document</span>&quot; =&gt; <span class=pl-s1><span class=pl-c1>$</span>document</span>]);</td>
+        </tr>
+        <tr>
+          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
+          <td id="LC40" class="blob-code blob-code-inner js-file-line">    curl_setopt(<span class=pl-s1><span class=pl-c1>$</span>ch</span>, <span class=pl-c1>CURLOPT_HTTPHEADER</span>, [&quot;<span class=pl-s>Content-Type:multipart/form-data</span>&quot;]);</td>
+        </tr>
+        <tr>
+          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line">    curl_setopt(<span class=pl-s1><span class=pl-c1>$</span>ch</span>, <span class=pl-c1>CURLOPT_SSL_VERIFYPEER</span>, <span class=pl-c1>FALSE</span>);</td>
+        </tr>
+        <tr>
+          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
+          <td id="LC42" class="blob-code blob-code-inner js-file-line">    curl_setopt(<span class=pl-s1><span class=pl-c1>$</span>ch</span>, <span class=pl-c1>CURLOPT_RETURNTRANSFER</span>, <span class=pl-c1>TRUE</span>);</td>
+        </tr>
+        <tr>
+          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
+          <td id="LC43" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
+          <td id="LC44" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1><span class=pl-c1>$</span>out</span> = curl_exec(<span class=pl-s1><span class=pl-c1>$</span>ch</span>);</td>
+        </tr>
+        <tr>
+          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
+          <td id="LC45" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
+          <td id="LC46" class="blob-code blob-code-inner js-file-line">    curl_close(<span class=pl-s1><span class=pl-c1>$</span>ch</span>);</td>
+        </tr>
+        <tr>
+          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
+          <td id="LC47" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
+          <td id="LC48" class="blob-code blob-code-inner js-file-line">    unlink(<span class=pl-s1><span class=pl-c1>$</span>file</span>[<span class=pl-s>&#39;name&#39;</span>]);</td>
+        </tr>
+        <tr>
+          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
+          <td id="LC49" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
+          <td id="LC50" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
+          <td id="LC51" class="blob-code blob-code-inner js-file-line">die(<span class=pl-s>&#39;1&#39;</span>);</td>
         </tr>
   </table>
 </div>
@@ -2895,7 +3042,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/llreebor/telegram-sender/blame/acf335ddb51ab1fc7ea3576d0d243af773288c42/index.html">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/llreebor/telegram-sender/blame/acf335ddb51ab1fc7ea3576d0d243af773288c42/ajax.php">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/llreebor/telegram-sender/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
@@ -2917,6 +3064,17 @@
 </button>
 </form>    </details-dialog>
   </details>
+
+    <div class="Popover anim-scale-in js-tagsearch-popover"
+     hidden
+     data-tagsearch-url="/llreebor/telegram-sender/find-definition"
+     data-tagsearch-ref="main"
+     data-tagsearch-code-nav-context="BLOB_VIEW">
+  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
+    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
+    </div>
+  </div>
+</div>
 
 
 
